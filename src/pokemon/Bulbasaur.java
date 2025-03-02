@@ -38,4 +38,16 @@ public class Bulbasaur extends Pokemon implements IPlanta {
 		System.out.println("Hola, soy Bulbasaur y este es mi ataque paralizar");
 	}
 
+	@Override
+	public void atacarHojaAfilada() {
+		System.out.println("Hola, soy Bulbasaur y este es mi ataque hoja afilada");
+		
+	}
+
+	@Override
+	public void atacarLatigoCepa() {
+		System.out.println("Hola, soy Bulbasaur y este es mi ataque latigo cepa");
+		
+	}
+
 }

@@ -7,6 +7,7 @@ public abstract class Pokemon {
 	protected double peso;
 	protected String sexo;
 	protected String temporada;
+	protected String tipo;
 	
 	
 	//Metodos de ataque
